@@ -6,6 +6,10 @@ GoldDigger, an extensive fiducial detection and tracking tool for cryo-STET data
 
 See the full [installation guide here](install.md).
 
+## How to use
+
+The user documentation is available at https://cryostem-tools.github.io/GoldDigger/, including a [user guide](user_guide.md).
+
 ## Citation
 
 If you used this project, please cite our work.
