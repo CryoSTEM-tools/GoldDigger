@@ -1,1 +1,10 @@
 site_name: GoldDigger
+site_url: https://cryostem-tools.github.io/GoldDigger
+nav:
+  - Home: index.md
+  - Install: install.md
+  - User Guide: user_guide.md
+
+plugins:
+  - search
+  - mkdocs-homepage-copier
