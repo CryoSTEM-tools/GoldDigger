@@ -1,2 +1,3 @@
 mkdocs
 mkdocs-homepage-copier
+mkdocs-material

@@ -4,7 +4,13 @@ nav:
   - Home: index.md
   - Install: install.md
   - User Guide: user_guide.md
-
+theme:
+  name: mkdocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - python
+    - bash
 plugins:
   - search
   - mkdocs-homepage-copier
