@@ -8,7 +8,7 @@ See the full [installation guide here](install.md).
 
 ## How to use
 
-The user documentation is available at https://cryostem-tools.github.io/GoldDigger/, including a [user guide](user_guide.md).
+The user documentation is available at [https://cryostem-tools.github.io/GoldDigger/](https://cryostem-tools.github.io/GoldDigger/), including a [user guide](user_guide.md).
 
 ## Citation
 
